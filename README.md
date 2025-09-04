@@ -62,7 +62,7 @@ Follow these steps to set up the project in your local environment:
 
 1. Clone this repository:-
 ```bash
-   git clone https://github.com/TusharVarathe/trading-platform-clone.git
+   git clone https://github.com/TusharVarathe/Trading-Platform-Clone.git
    ```
 2. Install dependencies for Backend, Frontend, and Dashboard.
 
